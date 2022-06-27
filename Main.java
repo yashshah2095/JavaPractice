@@ -18,6 +18,7 @@ public class Main {
         //******************************************************************************************
         //using traditional looping
         boolean isVisited[]=new boolean[ar1.length];
+        Map countFrequency=new HashMap();
         Arrays.fill(isVisited,false);
         for(int i=0;i<ar1.length;i++){
             if(isVisited[i]==true)
@@ -29,8 +30,10 @@ public class Main {
                     isVisited[j]=true;
                 }
             }
-            System.out.println("Count of "+ar1[i]+ " is "+count);
+            countFrequency.put(ar1[i],count);
+
         }
+        System.out.println(countFrequency);
         //******************************************************************************************
 
     }
