@@ -3,6 +3,7 @@ import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
+        //******************************************************************************************
         // Using Hashmap
         int[] ar1={1,2,3,4,2,3,0,1};
         Map<Integer,Integer> elementFrequency=new HashMap<>();
@@ -14,6 +15,23 @@ public class Main {
             }
         }
         System.out.println(elementFrequency);
+        //******************************************************************************************
+        //using traditional looping
+        boolean isVisited[]=new boolean[ar1.length];
+        Arrays.fill(isVisited,false);
+        for(int i=0;i<ar1.length;i++){
+            if(isVisited[i]==true)
+                continue;
+            int count=1;
+            for(int j=i+1;j<ar1.length;j++){
+                if(ar1[j]==ar1[i]){
+                    count++;
+                    isVisited[j]=true;
+                }
+            }
+            System.out.println("Count of "+ar1[i]+ " is "+count);
+        }
+        //******************************************************************************************
 
     }
 }
