@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Main {
+public class FindFrequency {
     public static void main(String[] args) {
         //******************************************************************************************
         // Using Hashmap
