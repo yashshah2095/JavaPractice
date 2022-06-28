@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1362e78f-82bf-4bf4-8a39-15846f200bbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ListOfStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecondLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SecondLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/SecondLargest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/SecondLargest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SecondLargest">
+  <component name="RunManager" selected="Application.ListOfStudents">
     <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="JavaPractice" />
@@ -46,8 +45,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindFrequency" />
+    <configuration name="ListOfStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListOfStudents" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListOfStudents" />
         <item itemvalue="Application.SecondLargest" />
         <item itemvalue="Application.PalindromeCheck" />
         <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.SwapNumbers" />
-        <item itemvalue="Application.FindFrequency" />
       </list>
     </recent_temporary>
   </component>
