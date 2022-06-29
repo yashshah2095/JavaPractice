@@ -5,8 +5,8 @@ import java.util.Map;
 
 public class AnagramCheck {
     public static void main(String[] args) {
-        String s1="Yyahshhh";
-        String s2="hhjysayh";
+        String s1="Yy ahshhh";
+        String s2="hhhysa yh";
         System.out.println("Are strings Anagram? "+anagramCheckUsingLibFunctions(s1,s2));
         System.out.println("Are strings Anagram? "+anagramCheckByComparingEachChar(s1,s2));
         System.out.println("Are strings Anagram? "+anagramCheckByCountingOccurence(s1,s2));

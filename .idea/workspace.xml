@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1362e78f-82bf-4bf4-8a39-15846f200bbf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AnagramCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnagramCheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AnagramCheck">
+  <component name="RunManager" selected="Application.Factorial">
     <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnagramCheck" />
       <module name="JavaPractice" />
@@ -48,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.AnagramCheck" />
         <item itemvalue="Application.ListOfStudents" />
         <item itemvalue="Application.SecondLargest" />
         <item itemvalue="Application.PalindromeCheck" />
-        <item itemvalue="Application.FibonacciSeries" />
       </list>
     </recent_temporary>
   </component>
