@@ -3,7 +3,7 @@ import java.util.*;
 public class FindMinFromArray {
     public static void main(String[] args) {
         int[] ar1 = {-1,-2,0,2,3};
-        Set<Integer> hmp1 = new HashSet();
+        HashSet<Integer> hmp1 = new HashSet<>();
         for (int i : ar1) {
             if (i > 0) {
                 hmp1.add(i);
