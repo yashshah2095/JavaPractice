@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1362e78f-82bf-4bf4-8a39-15846f200bbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BalancedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RGBGrouping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindMinFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/FindMinFromArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/FindMinFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/FindMinFromArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +44,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindMinFromArray">
-    <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnagramCheck" />
+  <component name="RunManager" selected="Application.RGBGrouping">
+    <configuration name="BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BalancedBrackets" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,15 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOfStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListOfStudents" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondLargest" />
+    <configuration name="RGBGrouping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RGBGrouping" />
       <module name="JavaPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RGBGrouping" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BalancedBrackets" />
         <item itemvalue="Application.FindMinFromArray" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.AnagramCheck" />
-        <item itemvalue="Application.ListOfStudents" />
-        <item itemvalue="Application.SecondLargest" />
       </list>
     </recent_temporary>
   </component>
@@ -108,5 +111,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BalancedBrackets.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
